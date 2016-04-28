@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1461593329 source:e:\tp 2\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1461595702 e:\tp 2\tp_2_cascara\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1461703541 source:i:\tp 2\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"funciones.h"
+
+1461704231 i:\tp 2\tp_2_cascara\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1461704166 source:i:\tp 2\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1461704304 source:f:\tp 2\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"funciones.h"
+
+1461704231 f:\tp 2\tp_2_cascara\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1461704166 source:f:\tp 2\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1461768240 source:d:\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"funciones.h"
+
+1461767081 d:\tp_2_cascara\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1461767649 source:d:\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1461798332 source:i:\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"funciones.h"
+
+1461795120 i:\tp_2_cascara\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1461797264 source:i:\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
